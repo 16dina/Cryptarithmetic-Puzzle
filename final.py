@@ -30,13 +30,19 @@ puzzles = [
     SEND + MORE = MONEY
     """,
     """
-    TWO * TWO = FOUR
-    """,
-    """
     COCA + COLA = SODA
     """,
     """
-    FIVE * FOUR = TWENTY
+    AB * C = AAA
+    """,
+    """
+    she / he = me
+    """,
+    """
+    OUT - TO = GO
+    """,
+    """
+    TO + GO = OUT
     """
 ]
 
